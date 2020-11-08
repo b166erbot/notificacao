@@ -1,2 +1,2 @@
 # notificacao
-inseri alertas na tela conforme for programado.
+insere alertas na tela conforme for programado.
